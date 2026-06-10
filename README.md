@@ -76,7 +76,7 @@ screenshots/  -> Simulation Waveforms
 
 ### Mealy FSM – Overlapping
 
-![Mealy Overlapping](screenshots/Mealy%20overlapping .png)
+![Mealy Overlapping](screenshots/Mealy%20overlapping.png)
 
 ### Mealy FSM – Non-Overlapping
 
