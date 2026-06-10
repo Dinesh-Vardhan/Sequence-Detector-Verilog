@@ -1,5 +1,3 @@
-# Sequence-Detector-Verilog
-Sequence Detector using Moore and Mealy FSMs in Verilog HDL with overlapping and non-overlapping detection schemes.
 # Sequence Detector using Verilog HDL
 
 ## Overview
@@ -78,7 +76,7 @@ screenshots/  -> Simulation Waveforms
 
 ### Mealy FSM – Overlapping
 
-![Mealy Overlapping](screenshots/Mealy%20overlapping.png)
+![Mealy Overlapping](screenshots/Mealy%20overlapping .png)
 
 ### Mealy FSM – Non-Overlapping
 
